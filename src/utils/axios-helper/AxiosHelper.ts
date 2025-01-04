@@ -1,6 +1,6 @@
 import type { AxiosRequestConfig, AxiosInstance, CreateAxiosDefaults } from 'axios'
 import axios from 'axios'
-import { Params } from '@/utils/axios-helper/types.ts'
+import { type Params } from '@/utils/axios-helper/types'
 
 export interface ResponseDataWrapper<T = unknown> {
   data: T
