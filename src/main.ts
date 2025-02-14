@@ -1,4 +1,4 @@
-import './assets/css/main.css'
+import './assets/css/base.less'
 /*插件相关（需要进行初始化、引入的）*/
 import '@/plugins'
 

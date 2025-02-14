@@ -6,6 +6,8 @@
     "stylelint-config-prettier-scss"
   ],
   "rules": {
-    "no-empty-source": null
+    "no-empty-source": null,
+    "font-family-no-missing-generic-family-keyword": null,
+    "selector-class-pattern": null
   }
 }
